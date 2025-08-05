@@ -1,27 +1,27 @@
-# SEEDER - Sovering seed generator
+#SEEDER - ອຸປະກອນສ້າງ seed ດ້ວຍໂຕເອງ offline
 
-¡Prepárate para cambiar la forma en que obtienes tus semillas! En este repositorio encontrarás lo necesario para poder crearte tu propia SEEDER, un dispositivo que te permite crear tus propias semillas de bitcoin en cuestión de segundos.
+ກຽມພ້ອມທີ່ຈະສ້າງ seed ດ້ວຍຕົນເອງ! ໃນບ່ອນເກັບມ້ຽນນີ້, ເຈົ້າຈະພົບເຫັນທຸກຢ່າງທີ່ເຈົ້າຕ້ອງການເພື່ອສ້າງ SEEDER ຂອງເຈົ້າເອງ, ອຸປະກອນທີ່ຊ່ວຍໃຫ້ທ່ານສ້າງເມັດ Bitcoin ຂອງເຈົ້າເອງໃນວິນາທີ.
 
-Un nuevo proyecto DIY para bitcoiners y curiosos.
+ໂຄງການ DIY ໃຫມ່ສໍາລັບ Bitcoiners ແລະຜູ້ທີ່ຢາກຮູ້ຢາກເຫັນ.
 
-Con la SEEDER podrás ser más soberano y no depender de nadie ni nada para salvaguardar tus fondos. Podrás realizar el proceso **semilla moneda** y **calcular la última palabra de tu semilla sin esfuerzo**, además de exportarla mediante un código QR. 
+ດ້ວຍ SEEDER, ທ່ານຈະສາມາດມີອຳນາດອະທິປະໄຕຫຼາຍຂຶ້ນ ແລະບໍ່ຂຶ້ນກັບໃຜ ຫຼືສິ່ງໃດເພື່ອປົກປ້ອງກອງທຶນຂອງທ່ານ. ທ່ານ​ຈະ​ສາ​ມາດ​ປະ​ຕິ​ບັດ​ຂະ​ບວນ​ການ **seed coin ** ແລະ **ການ​ຄິດ​ໄລ່​ຄໍາ​ສຸດ​ທ້າຍ​ຂອງ​ເມັດ​ຂອງ​ທ່ານ​ໄດ້​ຢ່າງ​ງ່າຍ​ດາຍ **​, ເຊັ່ນ​ດຽວ​ກັນ​ກັບ​ການ​ສົ່ງ​ອອກ​ໂດຍ​ຜ່ານ​ລະ​ຫັດ QR​.
 
-Todo ello gracias a la genial idea de  @Lunaticoin  y mi trabajo.
+ທັງຫມົດຂໍຂອບໃຈກັບຄວາມຄິດທີ່ດີເລີດຂອງ @Lunaticoin ແລະການເຮັດວຽກຂອງຂ້ອຍ.
 
-![image](https://github.com/BitMaker-hub/Seeder/blob/master/Images/Seeder_entry.png)
+![ຮູບພາບ](https://github.com/BitMaker-hub/Seeder/blob/master/Images/Seeder_entry.png)
 
-## Requisitos
-- Módulo TTGO T-Display
-- Cable USBC
+## ສິ່ງທີ່ຕ້ອງມີ
+- TTGO T-Display ໂມດູນ
+- ສາຍ USB-C
 
-## TUTORIAL
-Crea tu propio generador de semillas mediante la herramienta online ESPtool y los archivos binarios que encontrarás en la carpeta bin.
+## ຂັ້ນຕອນ
+ສ້າງເຄື່ອງກໍາເນີດເມັດພັນຂອງທ່ານເອງໂດຍໃຊ້ເຄື່ອງມືອອນໄລນ໌ ESPtool ແລະ binaries ທີ່ພົບເຫັນຢູ່ໃນໂຟນເດີ້.
 
-1. Consigue un módulo TTGO T-display
-1. Descarga este repositorio
-1. Accede a ESPtool online: https://espressif.github.io/esptool-js/
-1. Carga el firmware con los archivos binarios de la carpeta bin.
+1. ໄດ້ຮັບໂມດູນ TTGO T-display
+1. ດາວນ໌ໂຫລດ repository ນີ້
+1. ເຂົ້າເຖິງ ESPtool ອອນໄລນ໌: https://espressif.github.io/esptool-js/
+1. ໂຫລດ firmware ກັບ binaries ໃນໂຟນເດີ bin.
 
-Tutorial completo en YouTube:
+ບົດຮຽນເຕັມໃນ YouTube:
 
-[![Ver video aquí](https://img.youtube.com/vi/2K7ztWxtyY8/0.jpg)](https://youtu.be/2K7ztWxtyY8)
+[![ເບິ່ງວີດີໂອໄດ້ທີ່ນີ້](https://img.youtube.com/vi/2K7ztWxtyY8/0.jpg)](https://youtu.be/2K7ztWxtyY8)
